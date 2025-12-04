@@ -1,0 +1,23 @@
+
+1.Go to AWS Console → search "CloudWatch"
+
+2.In CloudWatch dashboard, click Alarms → Create Alarm
+
+3.Choose Metric → Billing → Total Estimated Charge
+
+4.Select Currency: INR
+
+5.Set:
+
+      Threshold: ≥ 100 INR
+
+6.Add action:
+
+      Send notification to an SNS topic (Email required)
+
+7.Name it:
+
+      BillingAlarm100INR
+
+8.Click Create Alarm
+

@@ -1,0 +1,9 @@
+1.Go to Billing Dashboard
+
+2.On left side → click Billing preferences
+
+3.Enable these checkboxes:
+    Receive Free Tier usage alerts
+    Receive billing alerts
+
+4.Add your email ID and click Save preferences
